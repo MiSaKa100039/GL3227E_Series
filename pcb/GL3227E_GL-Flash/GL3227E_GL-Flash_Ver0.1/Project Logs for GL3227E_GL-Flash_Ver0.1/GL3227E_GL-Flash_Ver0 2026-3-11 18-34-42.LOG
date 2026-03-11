@@ -1,0 +1,86 @@
+Added Component: Designator=U4(FBGA-153_L13.0-W11.5-P0.50_KLMAG1JETD-B041)
+Add component (AddParameter): Name = "Created by"; Value = "YWQ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "option"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "NAND_FLASH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Footprint"; Value = "BGA153_13RX11R5X0R9_2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Priority"; Value = "A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RK PN"; Value = "EMMC_B153_2L"; VariantName = "[No Variations]"
+Added Component: Designator=U5(FBGA-153_L13.0-W11.5-P0.50_KLMAG1JETD-B041)
+Add component (AddParameter): Name = "Created by"; Value = "YWQ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "option"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "NAND_FLASH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Footprint"; Value = "BGA153_13RX11R5X0R9_2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Priority"; Value = "A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RK PN"; Value = "EMMC_B153_2L"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J1-SH1
+Add Pin To Net: Unknown Pin: Pin J1-SH2
+Add Pin To Net: Unknown Pin: Pin J1-SH3
+Add Pin To Net: Unknown Pin: Pin J1-SH4
+Added Pin To Net: NetName=EMMC1_D0 Pin=U4-A3
+Added Pin To Net: NetName=EMMC1_D1 Pin=U4-A4
+Added Pin To Net: NetName=EMMC1_D2 Pin=U4-A5
+Added Pin To Net: NetName=GND Pin=U4-A6
+Added Pin To Net: NetName=EMMC1_D3 Pin=U4-B2
+Added Pin To Net: NetName=EMMC1_D4 Pin=U4-B3
+Added Pin To Net: NetName=EMMC1_D5 Pin=U4-B4
+Added Pin To Net: NetName=EMMC1_D6 Pin=U4-B5
+Added Pin To Net: NetName=EMMC1_D7 Pin=U4-B6
+Added Pin To Net: NetName=NetC6_1 Pin=U4-C2
+Added Pin To Net: NetName=GND Pin=U4-C4
+Added Pin To Net: NetName=VCC1.8V-eMMC Pin=U4-C6
+Added Pin To Net: NetName=VCC3.3V-eMMC Pin=U4-E6
+Added Pin To Net: NetName=GND Pin=U4-E7
+Added Pin To Net: NetName=VCC3.3V-eMMC Pin=U4-F5
+Added Pin To Net: NetName=GND Pin=U4-G5
+Added Pin To Net: NetName=EMMC1_DS Pin=U4-H5
+Added Pin To Net: NetName=GND Pin=U4-H10
+Added Pin To Net: NetName=GND Pin=U4-J5
+Added Pin To Net: NetName=VCC3.3V-eMMC Pin=U4-J10
+Added Pin To Net: NetName=EMMC1_RST# Pin=U4-K5
+Added Pin To Net: NetName=GND Pin=U4-K8
+Added Pin To Net: NetName=VCC3.3V-eMMC Pin=U4-K9
+Added Pin To Net: NetName=VCC1.8V-eMMC Pin=U4-M4
+Added Pin To Net: NetName=EMMC1_CMD Pin=U4-M5
+Added Pin To Net: NetName=EMMC1_CLK Pin=U4-M6
+Added Pin To Net: NetName=GND Pin=U4-N2
+Added Pin To Net: NetName=VCC1.8V-eMMC Pin=U4-N4
+Added Pin To Net: NetName=GND Pin=U4-N5
+Added Pin To Net: NetName=VCC1.8V-eMMC Pin=U4-P3
+Added Pin To Net: NetName=GND Pin=U4-P4
+Added Pin To Net: NetName=VCC1.8V-eMMC Pin=U4-P5
+Added Pin To Net: NetName=GND Pin=U4-P6
+Added Pin To Net: NetName=EMMC2_D0 Pin=U5-A3
+Added Pin To Net: NetName=EMMC2_D1 Pin=U5-A4
+Added Pin To Net: NetName=EMMC2_D2 Pin=U5-A5
+Added Pin To Net: NetName=GND Pin=U5-A6
+Added Pin To Net: NetName=EMMC2_D3 Pin=U5-B2
+Added Pin To Net: NetName=EMMC2_D4 Pin=U5-B3
+Added Pin To Net: NetName=EMMC2_D5 Pin=U5-B4
+Added Pin To Net: NetName=EMMC2_D6 Pin=U5-B5
+Added Pin To Net: NetName=EMMC2_D7 Pin=U5-B6
+Added Pin To Net: NetName=NetC7_1 Pin=U5-C2
+Added Pin To Net: NetName=GND Pin=U5-C4
+Added Pin To Net: NetName=VCC1.8V-eMMC Pin=U5-C6
+Added Pin To Net: NetName=VCC3.3V-eMMC Pin=U5-E6
+Added Pin To Net: NetName=GND Pin=U5-E7
+Added Pin To Net: NetName=VCC3.3V-eMMC Pin=U5-F5
+Added Pin To Net: NetName=GND Pin=U5-G5
+Added Pin To Net: NetName=EMMC2_DS Pin=U5-H5
+Added Pin To Net: NetName=GND Pin=U5-H10
+Added Pin To Net: NetName=GND Pin=U5-J5
+Added Pin To Net: NetName=VCC3.3V-eMMC Pin=U5-J10
+Added Pin To Net: NetName=EMMC2_RST# Pin=U5-K5
+Added Pin To Net: NetName=GND Pin=U5-K8
+Added Pin To Net: NetName=VCC3.3V-eMMC Pin=U5-K9
+Added Pin To Net: NetName=VCC1.8V-eMMC Pin=U5-M4
+Added Pin To Net: NetName=EMMC2_CMD Pin=U5-M5
+Added Pin To Net: NetName=EMMC2_CLK Pin=U5-M6
+Added Pin To Net: NetName=GND Pin=U5-N2
+Added Pin To Net: NetName=VCC1.8V-eMMC Pin=U5-N4
+Added Pin To Net: NetName=GND Pin=U5-N5
+Added Pin To Net: NetName=VCC1.8V-eMMC Pin=U5-P3
+Added Pin To Net: NetName=GND Pin=U5-P4
+Added Pin To Net: NetName=VCC1.8V-eMMC Pin=U5-P5
+Added Pin To Net: NetName=GND Pin=U5-P6
+Added Member To Class: ClassName=emmc Member=Component U4 BGA153_13RX11R5X0R9_2L
+Added Member To Class: ClassName=emmc Member=Component U5 BGA153_13RX11R5X0R9_2L
