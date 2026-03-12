@@ -1,0 +1,24 @@
+Add Pin To Net: Unknown Pin: Pin J1-SH1
+Add Pin To Net: Unknown Pin: Pin J1-SH2
+Add Pin To Net: Unknown Pin: Pin J1-SH3
+Add Pin To Net: Unknown Pin: Pin J1-SH4
+Added Pin To Net: NetName=IN_SSRX2_N Pin=U7-1
+Added Pin To Net: NetName=IN_SSRX2_P Pin=U7-2
+Added Pin To Net: NetName=GND Pin=U7-3
+Added Pin To Net: NetName=IN_SSTX2_P Pin=U7-4
+Added Pin To Net: NetName=IN_SSTX2_N Pin=U7-5
+Added Pin To Net: NetName=IN_SSTX2_N Pin=U7-6
+Added Pin To Net: NetName=IN_SSTX2_P Pin=U7-7
+Added Pin To Net: NetName=GND Pin=U7-8
+Added Pin To Net: NetName=IN_SSRX2_P Pin=U7-9
+Added Pin To Net: NetName=IN_SSRX2_N Pin=U7-10
+Added Pin To Net: NetName=IN_SSRX1_N Pin=U8-1
+Added Pin To Net: NetName=IN_SSRX1_P Pin=U8-2
+Added Pin To Net: NetName=GND Pin=U8-3
+Added Pin To Net: NetName=IN_SSTX1_N Pin=U8-4
+Added Pin To Net: NetName=IN_SSTX1_P Pin=U8-5
+Added Pin To Net: NetName=IN_SSTX1_P Pin=U8-6
+Added Pin To Net: NetName=IN_SSTX1_N Pin=U8-7
+Added Pin To Net: NetName=GND Pin=U8-8
+Added Pin To Net: NetName=IN_SSRX1_P Pin=U8-9
+Added Pin To Net: NetName=IN_SSRX1_N Pin=U8-10

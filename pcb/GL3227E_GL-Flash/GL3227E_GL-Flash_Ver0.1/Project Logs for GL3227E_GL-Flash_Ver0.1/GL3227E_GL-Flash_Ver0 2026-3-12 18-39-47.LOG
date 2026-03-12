@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=USB30 Member=USB-DM
+Removed Member From Class: ClassName=USB30 Member=USB-DP
+Add Pin To Net: Unknown Pin: Pin J1-SH1
+Add Pin To Net: Unknown Pin: Pin J1-SH2
+Add Pin To Net: Unknown Pin: Pin J1-SH3
+Add Pin To Net: Unknown Pin: Pin J1-SH4
+Change Net Name : Old Net Name=USB-DM New Net Name=USBD_N
+Change Net Name : Old Net Name=USB-DP New Net Name=USBD_P
+Added Differential Pair: Name=USBD
+Added Member To Class: ClassName=USB30 Member=Wire USBD_N
+Added Member To Class: ClassName=USB30 Member=Wire USBD_P

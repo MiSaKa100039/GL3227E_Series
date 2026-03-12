@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C25 Old Footprint=C0402_L New Footprint=C0402_NS
+Change Component Footprint: Designator=C26 Old Footprint=C0402_L New Footprint=C0402_NS
+Add Pin To Net: Unknown Pin: Pin J1-SH1
+Add Pin To Net: Unknown Pin: Pin J1-SH2
+Add Pin To Net: Unknown Pin: Pin J1-SH3
+Add Pin To Net: Unknown Pin: Pin J1-SH4

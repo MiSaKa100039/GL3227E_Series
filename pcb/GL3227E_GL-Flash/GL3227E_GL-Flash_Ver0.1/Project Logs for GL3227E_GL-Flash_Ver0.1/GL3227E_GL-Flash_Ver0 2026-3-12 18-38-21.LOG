@@ -1,0 +1,15 @@
+Add Pin To Net: Unknown Pin: Pin J1-SH1
+Add Pin To Net: Unknown Pin: Pin J1-SH2
+Add Pin To Net: Unknown Pin: Pin J1-SH3
+Add Pin To Net: Unknown Pin: Pin J1-SH4
+Change Net Name : Old Net Name=NetC25_1 New Net Name=SSTX_cap_N
+Change Net Name : Old Net Name=NetC26_1 New Net Name=SSTX_cap_P
+Added Class: Name=eMMC A
+Added Class: Name=eMMC B
+Added Class: Name=USB30
+Added Differential Pair: Name=SSTX_cap
+Add Differential Pair: Number of nets in differential pair USB-DM is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair USB-DP is 1 instead of 2
+Added Rule: Name=Schematic Differential Pairs Routing
+Added Rule: Name=Schematic Width Constraint
+Added Rule: Name=Schematic Width Constraint_1
