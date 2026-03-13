@@ -1,0 +1,11 @@
+Added Component: Designator=R15(R0402_NS)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J1-SH1
+Add Pin To Net: Unknown Pin: Pin J1-SH2
+Add Pin To Net: Unknown Pin: Pin J1-SH3
+Add Pin To Net: Unknown Pin: Pin J1-SH4
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=SPISI Pin=R15-2
+Added Member To Class: ClassName=GL3227_Core Member=Component R15 1K 1% NC

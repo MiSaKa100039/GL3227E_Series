@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=C27 Old Footprint=C0402_NS New Footprint=C0603_NS
+Change Component Footprint: Designator=C28 Old Footprint=C0402_NS New Footprint=C0603_NS
+Change Component Footprint: Designator=C29 Old Footprint=C0402_NS New Footprint=C0603_NS
+Change Component Footprint: Designator=C30 Old Footprint=C0402_NS New Footprint=C0603_NS
+Change Component Footprint: Designator=C31 Old Footprint=C0402_NS New Footprint=C0603_NS
+Change Component Footprint: Designator=C32 Old Footprint=C0402_NS New Footprint=C0603_NS
+Change Component Footprint: Designator=C33 Old Footprint=C0402_NS New Footprint=C0603_NS
+Add Pin To Net: Unknown Pin: Pin J1-SH1
+Add Pin To Net: Unknown Pin: Pin J1-SH2
+Add Pin To Net: Unknown Pin: Pin J1-SH3
+Add Pin To Net: Unknown Pin: Pin J1-SH4
